@@ -4,7 +4,7 @@
   "description": "JS rules for the team at cloud.house",
   "main": "index.js",
   "peerDependencies": {
-    "eslint-config-airbnb": "^11.0.0",
+    "eslint-config-airbnb-base": "^7.1.0",
     "eslint": ">= 3.5.0"
   },
   "scripts": {
