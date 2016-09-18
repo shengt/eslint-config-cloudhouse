@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-cloudhouse",
+  "version": "1.0.0",
+  "description": "JS rules for the team at cloud.house",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint-config-airbnb": "^11.0.0",
+    "eslint": ">= 3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerojuan/eslint-config-cloudhouse"
+  },
+  "author": "Julius <juliuscebreros@gmail.com>",
+  "license": "ISC"
+}
