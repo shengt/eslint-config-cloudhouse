@@ -1,11 +1,11 @@
 {
-  "name": "eslint-config-cloudhouse",
+  "name": "eslint-config-bulletproof",
   "version": "1.0.0",
-  "description": "JS rules for the team at cloud.house",
+  "description": "JS rules for the team at bulletproof",
   "main": "index.js",
   "peerDependencies": {
-    "eslint-config-airbnb-base": "^7.1.0",
-    "eslint": ">= 3.5.0"
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint": ">= 3.11.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +16,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zerojuan/eslint-config-cloudhouse"
+    "url": "https://github.com/shengt/eslint-config-cloudhouse.git"
   },
-  "author": "Julius <juliuscebreros@gmail.com>",
+  "author": "Tim <tim.tian@bulletproof.net>",
   "license": "ISC"
 }
